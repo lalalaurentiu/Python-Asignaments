@@ -1,8 +1,7 @@
 # Creați o clasă care se va utiliza pentru instanţierea obiectelor în formă de cub. Definiți o metodă pentru calcularea volumului unui cub și o altă metodă pentru calcularea lungimii totale a tuturor laturilor unui cub.
 # Plasați aceste metode în fire, executați mai întâi a doua metodă cu fire și, după finalizarea cu succes, executați-o pe prima. În timpul acestui proces, firul principal trebuie oprit.
 # Creați două obiecte peste care se vor apela fiecare din metodele create.
-
-Afișați rezultatele acestor metode cu comanda print.
+# Afișați rezultatele acestor metode cu comanda print.
 import threading
 
 class Cube:
